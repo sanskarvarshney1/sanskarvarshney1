@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI,Advanced Flask, Test Automation, CI/CD pipelines**
 
-- 👯 I’m looking to collaborate on [collaborate on *AI & automation projects*]([AI-Based Traffic Violation Detection](https://github.com/sanskarvarshney1/AI-Based-Traffic-Signal-Violation-Detection-and-E-Challan-System-P13))
+- 👯 I’m looking to collaborate on collaborate on *AI & automation projects*]([AI-Based Traffic Violation Detection](https://github.com/sanskarvarshney1/AI-Based-Traffic-Signal-Violation-Detection-and-E-Challan-System-P13))
 
 - 🤝 I’m looking for help with **open-source QA and test automation**
 
